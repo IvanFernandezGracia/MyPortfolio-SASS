@@ -13,11 +13,34 @@ Sass (which stands for 'Syntactically awesome style sheets) is an extension of C
 
 
 <!-- Skils -->
-<!-- ### Skills and Tools
-1. JS
-2. HTML
-3. CSS
-4. ... -->
+## Skills
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Skills</th>
+      <th align="center">Skills</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>SASS </li>
+          <li>CSS Styles</li>
+           <li>HTML</li>
+          <li>Font Googleapis</li>
+           <li>Normalize Style</li>
+          <li>Youtube iframe</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Design Responsive</li>
+          <li>Animation KeyFrames</li>
+           <li>Semantic Tags</li>
+          <li>Font Awesome</li>
+          <li>Pseudo-Class CSS</li>
+        </ul>
+      </td>
+    </tr>
 
 
 <!-- CONTACT -->
